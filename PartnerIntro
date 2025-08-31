@@ -1,9 +1,9 @@
 public class PartnerIntro {
-public static void main(String[] args) {
-system.out.println ("My name is Mack, and my major is software engineering. This class is a requirement."); 
-system.out.println ("I don’t have any programming experience, but I’ve always been tech-savvy.");
-system.out.println ("My hobbies are watching anime, playing video games, and exercising");
-system.out.println ("My daughter's birthday is on December 31st, so I plan to take my family to Great Wolf Lodge.");
-system.out.println ("It's my freshman year.")
-}
+  public static void main(String[] args) {
+    system.out.println ("My name is Mack, and my major is software engineering. This class is a requirement."); 
+    system.out.println ("I don’t have any programming experience, but I’ve always been tech-savvy.");
+    system.out.println ("My hobbies are watching anime, playing video games, and exercising");
+    system.out.println ("My daughter's birthday is on December 31st, so I plan to take my family to Great Wolf Lodge.");
+    system.out.println ("It's my freshman year.")
+  }
 }
